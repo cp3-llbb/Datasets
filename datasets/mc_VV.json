@@ -1,0 +1,12 @@
+{
+  "/VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "VVTo2L2Nu_13TeV_amcatnloFXFX_madspin_pythia8_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WZZ_TuneCUETP8M1_13TeV-amcatnlo-pythia8_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  }
+}
