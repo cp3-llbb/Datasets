@@ -1,46 +1,46 @@
 {
-  "/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_MiniAODv2",
+  "/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   },
-  "/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_25ns",
+  "/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Faill15MiniAODv2",
     "units_per_job": 5,
     "era": "25ns"
   }

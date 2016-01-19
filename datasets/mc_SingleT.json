@@ -1,21 +1,21 @@
 {
-  "/ST_t-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext1-v1/MINIAODSIM": {
-    "name": "ST_t-channel_4f_leptonDecays_13TeV-amcatnlo_MiniAODv2",
+  "/ST_t-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "ST_t-channel_4f_leptonDecays_13TeV-amcatnlo_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"
   },
-  "/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "ST_s-channel_4f_leptonDecays_13TeV-amcatnlo_MiniAODv2",
+  "/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "ST_s-channel_4f_leptonDecays_13TeV-amcatnlo_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"
   },
-  "/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
-    "name": "ST_tW_top_5f_inclusiveDecays_13TeV-powheg_MiniAODv2",
+  "/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "ST_tW_top_5f_inclusiveDecays_13TeV-powheg_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"
   },
-  "/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg_MiniAODv2",
+  "/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"
   }

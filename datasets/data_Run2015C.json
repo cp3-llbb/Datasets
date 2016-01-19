@@ -1,23 +1,23 @@
 {
-  "/MuonEG/Run2015C-23Sep2015-v1/MINIAOD": {
-    "name": "MuonEG_Run2015C-23Sep2015-v1_2015-10-20",
+  "/MuonEG/Run2015C_25ns-16Dec2015-v1/MINIAOD": {
+    "name": "MuonEG_Run2015C-16Dec2015-v1_2015-12-18",
     "units_per_job": 200,
-    "run_range": [253659,256464],
+    "run_range": [253659, 256464],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-258750_13TeV_PromptReco_Collisions15_25ns_JSON.txt"
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-260627_13TeV_PromptReco_Collisions15_25ns_JSON_v2.txt"
   },
-  "/DoubleMuon/Run2015C-23Sep2015-v1/MINIAOD": {
-    "name": "DoubleMuon_Run2015C-23Sep2015-v1_2015-10-20",
+  "/DoubleMuon/Run2015C_25ns-16Dec2015-v1/MINIAOD": {
+    "name": "DoubleMuon_Run2015C-16Dec2015-v1_2015-12-18",
     "units_per_job": 200,
-    "run_range": [253659,256464],
+    "run_range": [253659, 256464],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-258750_13TeV_PromptReco_Collisions15_25ns_JSON.txt"
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-260627_13TeV_PromptReco_Collisions15_25ns_JSON_v2.txt"
   },
-  "/DoubleEG/Run2015C-23Sep2015-v1/MINIAOD": {
-    "name": "DoubleEG_Run2015C-23Sep2015-v1_2015-10-20",
+  "/DoubleEG/Run2015C_25ns-16Dec2015-v1/MINIAOD": {
+    "name": "DoubleEG_Run2015C-16Dec2015-v1_2015-12-18",
     "units_per_job": 200,
-    "run_range": [253659,256464],
+    "run_range": [253659, 256464],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-258750_13TeV_PromptReco_Collisions15_25ns_JSON.txt"
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_246908-260627_13TeV_PromptReco_Collisions15_25ns_JSON_v2.txt"
   }
 }

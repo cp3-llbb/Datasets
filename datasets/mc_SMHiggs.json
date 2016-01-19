@@ -1,26 +1,26 @@
 {
-  "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_MiniAODv2",
+  "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
   },
-  "/VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_MiniAODv2",
+  "/VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
   },
-  "/HWplusJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "HWplusJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
+  "/HWplusJ_HToWW_M125_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HWplusJ_HToWW_M125_13TeV_powheg_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
   },
-  "/HWminusJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "HWminusJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
+  "/HWminusJ_HToWW_M125_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HWminusJ_HToWW_M125_13TeV_powheg_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
   },
-  "/HZJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "HZJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
+  "/HZJ_HToWW_M125_13TeV_powheg_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HZJ_HToWW_M125_13TeV_powheg_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
   }
