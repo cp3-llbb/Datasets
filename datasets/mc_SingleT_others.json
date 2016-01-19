@@ -1,0 +1,12 @@
+{
+  "/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISpring15DR74-Asympt25ns_MCRUN2_74_V9-v1/MINIAODSIM": {
+    "name": "ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_25ns",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISpring15DR74-Asympt25ns_MCRUN2_74_V9-v1/MINIAODSIM": {
+    "name": "ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_25ns",
+    "units_per_job": 5,
+    "era": "25ns"
+  }
+}

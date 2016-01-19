@@ -1,0 +1,7 @@
+{
+  "/TTTo2L2Nu_13TeV-powheg/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "TTTo2L2Nu_13TeV-powheg_MiniAODv2",
+    "units_per_job": 3,
+    "era": "25ns"
+  }
+}

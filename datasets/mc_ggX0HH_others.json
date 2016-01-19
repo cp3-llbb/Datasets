@@ -1,0 +1,52 @@
+{
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-260_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-260_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-270_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-270_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-300_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-300_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-350_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-350_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-450_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-450_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-500_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-500_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-550_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-550_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-600_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-600_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-700_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-700_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToRadionToHHTo2B2VTo2L2Nu_M-800_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToRadionToHHTo2B2VTo2L2Nu_M-800_narrow_MiniAODv2",
+    "units_per_job": 15,
+    "era": "25ns"
+  }
+}
