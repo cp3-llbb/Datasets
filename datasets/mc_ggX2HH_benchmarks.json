@@ -13,5 +13,20 @@
     "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-900_narrow_MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
+  },
+  "/GluGluToBulkGravitonToHHTo2B2Tau_M-400_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToBulkGravitonToHHTo2B2Tau_M-400_narrow_13TeV-madgraph",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToBulkGravitonToHHTo2B2Tau_M-650_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToBulkGravitonToHHTo2B2Tau_M-650_narrow_13TeV-madgraph",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/GluGluToBulkGravitonToHHTo2B2Tau_M-900_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToBulkGravitonToHHTo2B2Tau_M-900_narrow_13TeV-madgraph",
+    "units_per_job": 15,
+    "era": "25ns"
   }
 }
