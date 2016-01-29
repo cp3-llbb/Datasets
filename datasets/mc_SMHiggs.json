@@ -68,5 +68,15 @@
     "name": "VBFHToBB_M-125_13TeV_powheg_pythia8_weightfix",
     "units_per_job": 15,
     "era": "25ns"
+  },
+  "/ttHToNonbb_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "ttHToNonbb_M125_13TeV_powheg_pythia8",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/ttHTobb_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "ttHTobb_M125_13TeV_powheg_pythia8",
+    "units_per_job": 15,
+    "era": "25ns"
   }
 }
