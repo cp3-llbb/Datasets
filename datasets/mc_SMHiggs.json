@@ -40,7 +40,7 @@
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext1-v1/MINIAODSIM": {
-    "name": "ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8",
+    "name": "ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8_ext1",
     "units_per_job": 15,
     "era": "25ns"
   },
@@ -55,7 +55,7 @@
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext1-v3/MINIAODSIM": {
-    "name": "ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8",
+    "name": "ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8_ext1",
     "units_per_job": 15,
     "era": "25ns"
   },
