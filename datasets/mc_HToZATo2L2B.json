@@ -1,0 +1,99 @@
+{
+  "/HToZATo2L2B_MH-200_MA-50_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-200_MA-50_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-200_MA-100_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-200_MA-100_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-250_MA-100_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-250_MA-100_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-300_MA-50_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-300_MA-50_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-300_MA-100_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-300_MA-100_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-300_MA-200_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-300_MA-200_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+
+  "/HToZATo2L2B_MH-500_MA-50_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-500_MA-50_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-500_MA-100_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-500_MA-100_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-500_MA-200_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-500_MA-200_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-500_MA-300_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-500_MA-300_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-500_MA-400_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-500_MA-400_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-650_MA-50_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-650_MA-50_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-800_MA-50_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-800_MA-50_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-800_MA-200_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-800_MA-200_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-800_MA-400_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-800_MA-400_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-800_MA-700_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-800_MA-700_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-1000_MA-200_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-1000_MA-200_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-1000_MA-500_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-1000_MA-500_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  },
+  "/HToZATo2L2B_MH-3000_MA-2000_13TeV-madgraph-pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "HToZATo2L2B_MH-3000_MA-2000_13TeV-madgraph_Fall15MiniAODv1",
+    "units_per_job": 15,
+    "era": "25ns"
+  }
+}
+
