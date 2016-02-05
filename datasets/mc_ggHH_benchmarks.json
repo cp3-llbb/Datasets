@@ -1,12 +1,12 @@
 {
   "/GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
     "name": "GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph",
-    "units_per_job": 15,
+    "units_per_job": 1,
     "era": "25ns"
   },
   "/GluGluToHHTo2B2Tau_node_box_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "GluGluToHHTo2B2Tau_node_box_13TeV-madgraph",
-    "units_per_job": 15,
+    "units_per_job": 1,
     "era": "25ns"
   }
 }
