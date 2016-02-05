@@ -1,7 +1,7 @@
 {
   "/TT_TuneCUETP8M1_13TeV-powheg-pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext3-v1/MINIAODSIM": {
     "name": "TT_TuneCUETP8M1_13TeV-powheg-pythia8_MiniAODv2",
-    "units_per_job": 3,
+    "units_per_job": 2,
     "era": "25ns"
   }
 }

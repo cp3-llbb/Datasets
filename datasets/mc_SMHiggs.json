@@ -1,82 +1,82 @@
 {
   "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "GluGluHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "VBFHToWWTo2L2Nu_M125_13TeV_powheg_JHUgen_pythia8_MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/HWplusJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "HWplusJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/HWminusJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "HWminusJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/HZJ_HToWW_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "HZJ_HToWW_M125_13TeV_powheg_pythia8_MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/GluGluHToBB_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "GluGluHToBB_M125_13TeV_powheg_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ZH_HToBB_ZToLL_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ZH_HToBB_ZToLL_M125_13TeV_amcatnloFXFX_madspin_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext1-v1/MINIAODSIM": {
     "name": "ggZH_HToBB_ZToLL_M125_13TeV_powheg_pythia8_ext1",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ZH_HToBB_ZToNuNu_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ZH_HToBB_ZToNuNu_M125_13TeV_amcatnloFXFX_madspin_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2_ext1-v3/MINIAODSIM": {
     "name": "ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8_ext1",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/WH_HToBB_WToLNu_M125_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "WH_HToBB_WToLNu_M125_13TeV_amcatnloFXFX_madspin_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/VBFHToBB_M-125_13TeV_powheg_pythia8_weightfix/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "VBFHToBB_M-125_13TeV_powheg_pythia8_weightfix",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ttHToNonbb_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ttHToNonbb_M125_13TeV_powheg_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   },
   "/ttHTobb_M125_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
     "name": "ttHTobb_M125_13TeV_powheg_pythia8",
-    "units_per_job": 15,
+    "units_per_job": 5,
     "era": "25ns"
   }
 }
