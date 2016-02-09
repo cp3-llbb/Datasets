@@ -4,7 +4,7 @@
     "units_per_job": 3,
     "era": "25ns"
   },
-  "/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+  "/ST_s-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/MINIAODSIM": {
     "name": "ST_s-channel_4f_leptonDecays_13TeV-amcatnlo_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"
