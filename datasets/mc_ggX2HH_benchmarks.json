@@ -1,17 +1,17 @@
 {
   "/GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-400_narrow_13TeV-madgraph/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
     "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-400_narrow_Fall15MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 1,
     "era": "25ns"
   },
   "/GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-650_narrow_13TeV-madgraph/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
     "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-650_narrow_Fall15MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 1,
     "era": "25ns"
   },
   "/GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-900_narrow_13TeV-madgraph/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v2/MINIAODSIM": {
     "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-900_narrow_Fall15MiniAODv2",
-    "units_per_job": 15,
+    "units_per_job": 1,
     "era": "25ns"
   }
 }
