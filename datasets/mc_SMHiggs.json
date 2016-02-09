@@ -23,7 +23,7 @@
     "name": "HZJ_HToWW_M125_13TeV_powheg_pythia8_Fall15MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
-  }
+  },
   "/GluGluZH_HToWWTo2L2Nu_ZTo2L_M125_13TeV_powheg_pythia8/RunIIFall15MiniAODv1-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
     "name": "GluGluZH_HToWWTo2L2Nu_ZTo2L_M125_13TeV_powheg_pythia8",
     "units_per_job": 15,
