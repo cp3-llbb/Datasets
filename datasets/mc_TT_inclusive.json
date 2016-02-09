@@ -1,5 +1,5 @@
 {
-  "/TT_TuneCUETP8M1_13TeV-powheg-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+  "/TT_TuneCUETP8M1_13TeV-powheg-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12_ext3-v1/MINIAODSIM": {
     "name": "TT_TuneCUETP8M1_13TeV-powheg-pythia8_Fall15MiniAODv2",
     "units_per_job": 3,
     "era": "25ns"

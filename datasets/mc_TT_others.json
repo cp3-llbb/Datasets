@@ -1,5 +1,5 @@
 {
-  "/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12v1/MINIAODSIM": {
+  "/TTJets_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
     "name": "TTJets_TuneCUETP8M1_amcatnloFXFX_25ns",
     "units_per_job": 15,
     "era": "25ns"
