@@ -1,11 +1,31 @@
 {
   "/GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
-    "name": "GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph",
+    "name": "GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph_Spring15MiniAODv2",
+    "units_per_job": 1,
+    "era": "25ns"
+  },
+  "/GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph/RunIISpring15MiniAODv2-Asympt25ns_74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph_Spring15MiniAODv2",
+    "units_per_job": 1,
+    "era": "25ns"
+  },
+  "/GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph/RunIISpring15MiniAODv2-Asympt25ns_74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph_Spring15MiniAODv2",
+    "units_per_job": 1,
+    "era": "25ns"
+  },
+  "/GluGluToHHTo2B2Tau_node_2_13TeV-madgraph/RunIISpring15MiniAODv2-Asympt25ns_74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToHHTo2B2Tau_node_2_13TeV-madgraph_Spring15MiniAODv2",
+    "units_per_job": 1,
+    "era": "25ns"
+  },
+  "/GluGluToHHTo2B2Tau_node_SM_13TeV-madgraph/RunIISpring15MiniAODv2-Asympt25ns_74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "GluGluToHHTo2B2Tau_node_SM_13TeV-madgraph_Spring15MiniAODv2",
     "units_per_job": 1,
     "era": "25ns"
   },
   "/GluGluToHHTo2B2Tau_node_box_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
-    "name": "GluGluToHHTo2B2Tau_node_box_13TeV-madgraph",
+    "name": "GluGluToHHTo2B2Tau_node_box_13TeV-madgraph_Spring15MiniAODv2",
     "units_per_job": 1,
     "era": "25ns"
   }
