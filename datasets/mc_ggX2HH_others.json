@@ -20,7 +20,7 @@
     "era": "25ns"
   },
   "/GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-450_narrow_13TeV-madgraph/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
-    "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-450_narrow_Asympt25ns",
+    "name": "GluGluToBulkGravitonToHHTo2B2VTo2L2Nu_M-450_narrow_MiniAODv2",
     "units_per_job": 1,
     "era": "25ns"
   },
