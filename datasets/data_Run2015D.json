@@ -4,20 +4,20 @@
     "units_per_job": 100,
     "run_range": [256630, 260627],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt "
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Reprocessing/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt"
   },
   "/DoubleMuon/Run2015D-16Dec2015-v1/MINIAOD": {
     "name": "DoubleMuon_Run2015D-16Dec2015-v1_2016-03-03",
     "units_per_job": 100,
     "run_range": [256630, 260627],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt "
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Reprocessing/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt"
   },
   "/DoubleEG/Run2015D-16Dec2015-v2/MINIAOD": {
     "name": "DoubleEG_Run2015D-16Dec2015-v2_2016-03-03",
     "units_per_job": 100,
     "run_range": [256630, 260627],
     "era": "25ns",
-    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt "
+    "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions15/13TeV/Reprocessing/Cert_13TeV_16Dec2015ReReco_Collisions15_25ns_JSON_v2.txt"
   }
 }
