@@ -13,5 +13,45 @@
     "name": "ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8_MiniAODv2",
     "units_per_job": 15,
     "era": "25ns"
+  },
+  "/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/ZZTo2L2Nu_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
+    "name": "ZZTo2L2Nu_13TeV_powheg_pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/WWTo2L2Nu_13TeV-powheg/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WWTo2L2Nu_13TeV-powheg_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/ZZTo4L_13TeV_powheg_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v2/MINIAODSIM": {
+    "name": "ZZTo4L_13TeV_powheg_pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/WWToLNuQQ_13TeV-powheg/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WWToLNuQQ_13TeV-powheg_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WZTo3LNu_TuneCUETP8M1_13TeV-powheg-pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
+  "/WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8/RunIISpring15MiniAODv2-74X_mcRun2_asymptotic_v2-v1/MINIAODSIM": {
+    "name": "WZTo1L3Nu_13TeV_amcatnloFXFX_madspin_pythia8_Spring15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
   }
 }
