@@ -14,6 +14,11 @@
     "units_per_job": 5,
     "era": "25ns"
   },
+  "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
+    "units_per_job": 5,
+    "era": "25ns"
+  },
   "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
     "name": "QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Fall15MiniAODv2",
     "units_per_job": 5,
