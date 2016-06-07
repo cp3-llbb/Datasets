@@ -1,7 +1,7 @@
 {
-  "/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
-    "name": "WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_Fall15MiniAODv2",
+  "/WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
     "units_per_job": 15,
+    "name": "WJetsToLNu_TuneCUETP8M1_13TeV-amcatnloFXFX-pythia8_Spring16MiniAODv2",
     "era": "25ns"
   }
 }
