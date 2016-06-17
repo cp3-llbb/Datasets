@@ -1,0 +1,12 @@
+{
+  "/WBJetsToLNu_Wpt-40toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "WBJetsToLNu_Wpt-40toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_Fall15MiniAODv2",
+    "units_per_job": 10,
+    "era": "25ns"
+  },
+  "/WJetsToLNu_BGenFilter_Wpt-40toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIIFall15MiniAODv2-PU25nsData2015v1_76X_mcRun2_asymptotic_v12-v1/MINIAODSIM": {
+    "name": "_Fall15MiniAODv2",
+    "units_per_job": 10,
+    "era": "25ns"
+  }
+}
