@@ -1,53 +1,58 @@
 {
-  "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "units_per_job": 5,
-    "name": "QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "units_per_job": 5,
-    "name": "QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Faill15MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "units_per_job": 5,
-    "name": "QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  },
-  "/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
-    "comment": "Dataset does not currently exist (07, Jun 2016)",
-    "units_per_job": 5,
-    "name": "QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
-    "era": "25ns"
-  }
+    "QCD_Ptbins_EMEnriched": {
+        "/QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-15to20_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-20to30_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-30to50_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-50to80_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-80to120_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "units_per_job": 5,
+            "name": "QCD_Pt-120to170_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "units_per_job": 5,
+            "name": "QCD_Pt-170to300_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        },
+        "/QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "units_per_job": 5,
+            "name": "QCD_Pt-300toInf_EMEnriched_TuneCUETP8M1_13TeV_pythia8_Faill15MiniAODv2",
+            "era": "25ns"
+        }
+    },
+
+    "QCD_Ptbins_MuEnriched": {
+        "/QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 5,
+            "name": "QCD_Pt-20toInf_MuEnrichedPt15_TuneCUETP8M1_13TeV_pythia8_Spring16MiniAODv2",
+            "era": "25ns"
+        }
+    }
 }

@@ -1,0 +1,88 @@
+{
+    "ggHH_benchmarks": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v3/MINIAODSIM": {
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v3/MINIAODSIM": {
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v4/MINIAODSIM": {
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph",
+            "era": "25ns"
+        }
+    },
+
+    "ggHH": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_6_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_6_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_4_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_4_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_11_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_11_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_5_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_5_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_12_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_12_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_7_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_7_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_10_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_10_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_13_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_13_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_9_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_9_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_3_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_3_13TeV-madgraph",
+            "era": "25ns"
+        },
+        "/GluGluToHHTo2B2VTo2L2Nu_node_8_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
+            "comment": "Dataset does not currently exist (07, Jun 2016)",
+            "units_per_job": 1,
+            "name": "GluGluToHHTo2B2VTo2L2Nu_node_8_13TeV-madgraph",
+            "era": "25ns"
+        }
+    }
+}
