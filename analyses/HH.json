@@ -1,0 +1,13 @@
+{
+    "name": "HHAnalysis",
+    "configuration": "cp3_llbb/HHAnalysis/test/HHConfiguration.py",
+    "splitting": "relative:1",
+    "samples": {
+        "mc": [
+            "TT_powheg_fully_leptonic", "DY_NLO", "DY_HTbins", "SMHiggs", "TTH", "WJets", "ST_tW_5f_powheg", "ST_t_4f_aMC@NLO", "ST_s_4f_aMC@NLO", "ZZ", "WW", "WZ", "WZZ",
+            "ggHH*", "ggX?HH*"
+        ],
+        "data": ["DoubleEG_run2016", "DoubleMuon_run2016", "MuonEG_run2016"]
+    }
+}
+
