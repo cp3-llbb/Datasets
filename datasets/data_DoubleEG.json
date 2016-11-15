@@ -1,49 +1,82 @@
 {
     "DoubleEG_run2016": {
-        "/DoubleEG/Run2016B-PromptReco-v2/MINIAOD": {
-            "name": "DoubleEG_Run2016B-PromptReco-v2",
+        "/DoubleEG/Run2016B-23Sep2016-v3/MINIAOD": {
+            "name": "DoubleEG_Run2016B-23Sep2016-v3",
             "units_per_job": 200,
             "run_range": [272007, 275376],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         },
-        "/DoubleEG/Run2016C-PromptReco-v2/MINIAOD": {
-            "name": "DoubleEG_Run2016C-PromptReco-v2",
+        "/DoubleEG/Run2016C-23Sep2016-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016C-23Sep2016-v1",
             "units_per_job": 200,
             "run_range": [275657, 276283],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         },
-        "/DoubleEG/Run2016D-PromptReco-v2/MINIAOD": {
-            "name": "DoubleEG_Run2016D-PromptReco-v2",
+        "/DoubleEG/Run2016D-23Sep2016-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016D-23Sep2016-v1",
             "units_per_job": 200,
             "run_range": [276315, 276811],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         },
 
-        "/DoubleEG/Run2016E-PromptReco-v2/MINIAOD": {
-            "name": "DoubleEG_Run2016E-PromptReco-v2",
+        "/DoubleEG/Run2016E-23Sep2016-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016E-23Sep2016-v1",
             "units_per_job": 200,
             "run_range": [276831, 277420],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         },
 
-        "/DoubleEG/Run2016F-PromptReco-v1/MINIAOD": {
-            "name": "DoubleEG_Run2016F-PromptReco-v1",
+        "/DoubleEG/Run2016F-23Sep2016-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016F-23Sep2016-v1",
             "units_per_job": 200,
             "run_range": [277772, 278808],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         },
 
-        "/DoubleEG/Run2016G-PromptReco-v1/MINIAOD": {
-            "name": "DoubleEG_Run2016G-PromptReco-v1",
+        "/DoubleEG/Run2016G-23Sep2016-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016G-23Sep2016-v1",
             "units_per_job": 200,
-            "run_range": [278820, 999999],
+            "run_range": [278820, 280385],
             "era": "25ns",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-279931_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+        },
+
+        "/DoubleEG/Run2016H-PromptReco-v1/MINIAOD": {
+            "name": "DoubleEG_Run2016H-PromptReco-v1",
+            "units_per_job": 200,
+            "run_range": [280919, 281202],
+            "era": "25ns",
+            "globalTag": "80X_dataRun2_Prompt_v14",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+        },
+
+        "/DoubleEG/Run2016H-PromptReco-v2/MINIAOD": {
+            "name": "DoubleEG_Run2016H-PromptReco-v2",
+            "units_per_job": 200,
+            "run_range": [281207, 284035],
+            "era": "25ns",
+            "globalTag": "80X_dataRun2_Prompt_v14",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+        },
+
+        "/DoubleEG/Run2016H-PromptReco-v3/MINIAOD": {
+            "name": "DoubleEG_Run2016H-PromptReco-v3",
+            "units_per_job": 200,
+            "run_range": [284036, 284068],
+            "era": "25ns",
+            "globalTag": "80X_dataRun2_Prompt_v14",
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
         }
 
     }
