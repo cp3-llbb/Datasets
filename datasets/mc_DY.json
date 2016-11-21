@@ -39,9 +39,10 @@
             "era": "25ns"
         },
         "/DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0_ext1-v1/MINIAODSIM": {
-            "units_per_job": 2,
+            "units_per_job": 1,
             "name": "DYJetsToLL_M-50_HT-400to600_TuneCUETP8M1_13TeV-madgraphMLM-pythia8_ext1_Spring16MiniAODv2",
-            "era": "25ns"
+            "era": "25ns",
+            "memory": 2500
         },
         "/DYJetsToLL_M-50_HT-600toInf_TuneCUETP8M1_13TeV-madgraphMLM-pythia8/RunIISpring16MiniAODv2-PUSpring16_80X_mcRun2_asymptotic_2016_miniAODv2_v0-v1/MINIAODSIM": {
             "units_per_job": 2,
