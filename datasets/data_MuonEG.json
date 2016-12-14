@@ -6,7 +6,7 @@
             "run_range": [272007, 275376],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016C-23Sep2016-v1/MINIAOD": {
@@ -15,7 +15,7 @@
             "run_range": [275657, 276283],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016D-23Sep2016-v1/MINIAOD": {
@@ -24,7 +24,7 @@
             "run_range": [276315, 276811],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016E-23Sep2016-v1/MINIAOD": {
@@ -33,7 +33,7 @@
             "run_range": [276831, 277420],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016F-23Sep2016-v1/MINIAOD": {
@@ -42,7 +42,7 @@
             "run_range": [277772, 278808],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016G-23Sep2016-v1/MINIAOD": {
@@ -51,7 +51,7 @@
             "run_range": [278820, 280385],
             "era": "25ns",
             "globalTag": "80X_dataRun2_2016SeptRepro_v4",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016H-PromptReco-v1/MINIAOD": {
@@ -60,7 +60,7 @@
             "run_range": [280919, 281202],
             "era": "25ns",
             "globalTag": "80X_dataRun2_Prompt_v14",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016H-PromptReco-v2/MINIAOD": {
@@ -69,7 +69,7 @@
             "run_range": [281207, 284035],
             "era": "25ns",
             "globalTag": "80X_dataRun2_Prompt_v14",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
         "/MuonEG/Run2016H-PromptReco-v3/MINIAOD": {
@@ -78,7 +78,7 @@
             "run_range": [284036, 284068],
             "era": "25ns",
             "globalTag": "80X_dataRun2_Prompt_v14",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/Cert_271036-284044_13TeV_PromptReco_Collisions16_JSON_NoL1T.txt"
+            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         }
     }
 }
