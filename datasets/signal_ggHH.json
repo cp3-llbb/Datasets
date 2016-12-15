@@ -1,16 +1,16 @@
 {
     "ggHH_benchmarks": {
-        "/GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_SM_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_2_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_box_13TeV-madgraph",
             "era": "25ns"
@@ -18,57 +18,57 @@
     },
 
     "ggHH": {
-        "/GluGluToHHTo2B2VTo2L2Nu_node_6_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_6_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_6_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_4_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_4_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_4_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_11_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_11_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_11_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_5_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_5_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_5_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_12_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_12_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_12_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_7_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_7_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_7_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_10_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_10_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_10_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_13_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_13_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_13_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_9_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_9_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_9_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_3_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_3_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_3_13TeV-madgraph",
             "era": "25ns"
         },
-        "/GluGluToHHTo2B2VTo2L2Nu_node_8_13TeV-madgraph/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
+        "/GluGluToHHTo2B2VTo2L2Nu_node_8_13TeV-madgraph/RunIISummer16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM": {
             "units_per_job": 1,
             "name": "GluGluToHHTo2B2VTo2L2Nu_node_8_13TeV-madgraph",
             "era": "25ns"
