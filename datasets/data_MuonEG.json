@@ -54,15 +54,6 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/MuonEG/Run2016H-PromptReco-v1/MINIAOD": {
-            "name": "MuonEG_Run2016H-PromptReco-v1",
-            "units_per_job": 200,
-            "run_range": [280919, 281202],
-            "era": "25ns",
-            "globalTag": "80X_dataRun2_Prompt_v14",
-            "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
-        },
-
         "/MuonEG/Run2016H-PromptReco-v2/MINIAOD": {
             "name": "MuonEG_Run2016H-PromptReco-v2",
             "units_per_job": 200,
