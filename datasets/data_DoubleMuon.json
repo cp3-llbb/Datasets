@@ -5,7 +5,7 @@
             "units_per_job": 200,
             "run_range": [272007, 275376],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -14,7 +14,7 @@
             "units_per_job": 200,
             "run_range": [275657, 276283],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -23,7 +23,7 @@
             "units_per_job": 200,
             "run_range": [276315, 276811],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -32,7 +32,7 @@
             "units_per_job": 200,
             "run_range": [276831, 277420],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -41,7 +41,7 @@
             "units_per_job": 200,
             "run_range": [277772, 278808],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -50,7 +50,7 @@
             "units_per_job": 200,
             "run_range": [278820, 280385],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_2016SeptRepro_v4",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -59,7 +59,7 @@
             "units_per_job": 200,
             "run_range": [281207, 284035],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_Prompt_v14",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
@@ -68,7 +68,7 @@
             "units_per_job": 200,
             "run_range": [284036, 284068],
             "era": "25ns",
-            "globalTag": "80X_dataRun2_Prompt_v14",
+            "globalTag": "80X_dataRun2_2016SeptRepro_v6",
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         }
     }
