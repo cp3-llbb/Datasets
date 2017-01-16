@@ -28,6 +28,12 @@ for group, datasets in grouped_datasets.items():
         result = json.loads(subprocess.check_output(['das_client', '--query', 'dataset=%s' % dataset, '--format', 'json']))
 
         status = None
+        if len(result['data']) == 0:
+            print("DAS error:")
+            import pprint
+            pprint.pprint(result)
+            continue
+
         for d in result['data'][0]['dataset']:
             if 'status' in d:
                 status = d['status']

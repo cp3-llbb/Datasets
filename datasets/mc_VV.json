@@ -64,7 +64,7 @@
             "era": "25ns"
         },
 
-        "/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
+        "/WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v3/MINIAODSIM": {
             "units_per_job": 15,
             "name": "WZTo1L1Nu2Q_13TeV_amcatnloFXFX_madspin_pythia8_Summer16MiniAODv2",
             "era": "25ns"
