@@ -1,26 +1,16 @@
 {
     "ST_tW_5f_powheg": {
-        "/ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM": {
+        "/ST_tW_antitop_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
             "units_per_job": 3,
-            "name": "ST_tW_antitop_5f_inclusiveDecays_13TeV-powheg_ext1_Summer16MiniAODv2",
+            "name": "ST_tW_antitop_5f_noFullyHadronicDecays_13TeV-powheg_Summer16MiniAODv2",
             "era": "25ns"
         },
 
-        "/ST_tW_top_5f_inclusiveDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6_ext1-v1/MINIAODSIM": {
+        "/ST_tW_top_5f_NoFullyHadronicDecays_13TeV-powheg_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
             "units_per_job": 3,
-            "name": "ST_tW_top_5f_inclusiveDecays_13TeV-powheg_ext1_Summer16MiniAODv2",
+            "name": "ST_tW_top_5f_noFullyHadronicDecays_13TeV-powheg_Summer16MiniAODv2",
             "era": "25ns"
         }
-    },
-
-    "ST_t_4f_aMC@NLO": {
-        "/ST_t-channel_4f_leptonDecays_13TeV-amcatnlo-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
-            "comment": "Dataset does not currently exist (07, Jun 2016)",
-            "units_per_job": 3,
-            "name": "ST_t-channel_4f_leptonDecays_13TeV-amcatnlo_Summer16MiniAODv2",
-            "era": "25ns"
-        }
-
     },
 
     "ST_s_4f_aMC@NLO": {
@@ -32,16 +22,15 @@
     },
 
     "ST_t_4f_powheg": {
-        "/ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
-            "comment": "Dataset does not currently exist (07, Jun 2016)",
+        "/ST_t-channel_top_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
             "units_per_job": 5,
-            "name": "ST_t-channel_top_4f_leptonDecays_13TeV-powheg-pythia8_Summer16MiniAODv2",
+            "name": "ST_t-channel_top_4f_inclusiveDecays_13TeV-powheg-pythia8_Summer16MiniAODv2",
             "era": "25ns"
         },
 
-        "/ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
+        "/ST_t-channel_antitop_4f_inclusiveDecays_13TeV-powhegV2-madspin-pythia8_TuneCUETP8M1/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
             "units_per_job": 5,
-            "name": "ST_t-channel_antitop_4f_leptonDecays_13TeV-powheg-pythia8_Summer16MiniAODv2",
+            "name": "ST_t-channel_antitop_4f_inclusiveDecays_13TeV-powheg-pythia8_Summer16MiniAODv2",
             "era": "25ns"
         }
     }
