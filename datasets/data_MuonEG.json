@@ -55,7 +55,7 @@
         },
 
         "/MuonEG/Run2016H-03Feb2017_ver2-v1/MINIAOD": {
-            "name": "MuonEG_Run2016H-03Feb2017-v3",
+            "name": "MuonEG_Run2016H-03Feb2017-v2",
             "units_per_job": 200,
             "run_range": [281207, 284035],
             "era": "25ns",
