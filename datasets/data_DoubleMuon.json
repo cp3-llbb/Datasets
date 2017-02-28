@@ -1,7 +1,7 @@
 {
     "DoubleMuon_run2016": {
-        "/DoubleMuon/Run2016B-23Sep2016-v3/MINIAOD": {
-            "name": "DoubleMuon_Run2016B-23Sep2016-v3",
+        "/DoubleMuon/Run2016B-03Feb2017_ver2-v2/MINIAOD": {
+            "name": "DoubleMuon_Run2016B-03Feb2017-ver2",
             "units_per_job": 200,
             "run_range": [272007, 275376],
             "era": "25ns",
@@ -9,8 +9,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016C-23Sep2016-v1/MINIAOD": {
-            "name": "DoubleMuon_Run2016C-23Sep2016-v1",
+        "/DoubleMuon/Run2016C-03Feb2017-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016C-03Feb2017-v1",
             "units_per_job": 200,
             "run_range": [275657, 276283],
             "era": "25ns",
@@ -18,8 +18,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016D-23Sep2016-v1/MINIAOD": {
-            "name": "DoubleMuon_Run2016D-23Sep2016-v1",
+        "/DoubleMuon/Run2016D-03Feb2017-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016D-03Feb2017-v1",
             "units_per_job": 200,
             "run_range": [276315, 276811],
             "era": "25ns",
@@ -27,8 +27,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016E-23Sep2016-v1/MINIAOD": {
-            "name": "DoubleMuon_Run2016E-23Sep2016-v1",
+        "/DoubleMuon/Run2016E-03Feb2017-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016E-03Feb2017-v1",
             "units_per_job": 200,
             "run_range": [276831, 277420],
             "era": "25ns",
@@ -36,8 +36,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016F-23Sep2016-v1/MINIAOD": {
-            "name": "DoubleMuon_Run2016F-23Sep2016-v1",
+        "/DoubleMuon/Run2016F-03Feb2017-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016F-03Feb2017-v1",
             "units_per_job": 200,
             "run_range": [277772, 278808],
             "era": "25ns",
@@ -45,8 +45,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016G-23Sep2016-v1/MINIAOD": {
-            "name": "DoubleMuon_Run2016G-23Sep2016-v1",
+        "/DoubleMuon/Run2016G-03Feb2017-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016G-03Feb2017-v1",
             "units_per_job": 200,
             "run_range": [278820, 280385],
             "era": "25ns",
@@ -54,8 +54,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016H-PromptReco-v2/MINIAOD": {
-            "name": "DoubleMuon_Run2016H-PromptReco-v2",
+        "/DoubleMuon/Run2016H-03Feb2017_ver2-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016H-03Feb2017-v2",
             "units_per_job": 200,
             "run_range": [281207, 284035],
             "era": "25ns",
@@ -63,8 +63,8 @@
             "certified_lumi_file": "https://cms-service-dqm.web.cern.ch/cms-service-dqm/CAF/certification/Collisions16/13TeV/ReReco/Final/Cert_271036-284044_13TeV_23Sep2016ReReco_Collisions16_JSON.txt"
         },
 
-        "/DoubleMuon/Run2016H-PromptReco-v3/MINIAOD": {
-            "name": "DoubleMuon_Run2016H-PromptReco-v3",
+        "/DoubleMuon/Run2016H-03Feb2017_ver3-v1/MINIAOD": {
+            "name": "DoubleMuon_Run2016H-03Feb2017-v3",
             "units_per_job": 200,
             "run_range": [284036, 284068],
             "era": "25ns",
