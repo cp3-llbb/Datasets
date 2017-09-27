@@ -134,7 +134,7 @@
             "units_per_job": 5,
             "name": "ggZH_HToBB_ZToNuNu_M125_13TeV_powheg_pythia8_Summer16MiniAODv2",
             "era": "25ns"
-        },
+        }
     },
 
     "TTH": {
