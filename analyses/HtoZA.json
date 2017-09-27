@@ -1,0 +1,11 @@
+{
+    "name": "HtoZAAnalysis",
+    "configuration": "cp3_llbb/ZAAnalysis/test/HtoZAConfiguration.py",
+    "splitting": "relative:1",
+    "samples": {
+        "mc": [
+            "HToZA", "DY_NLO", "DY_NLO_NJetsBins", "TT_powheg_inclusive", "ZZ", "ST_tW_5f_powheg", "ST_s_4f_aMC@NLO", "ST_t_4f_powheg"
+        ],
+        "data": ["DoubleEG_run2016", "DoubleMuon_run2016", "MuonEG_run2016"]
+    }
+}
