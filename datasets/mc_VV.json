@@ -38,9 +38,9 @@
             "name": "WWTo2L2Nu_13TeV-powheg_Summer16MiniAODv2",
             "era": "25ns"
         },
-        "/WWToLNuQQ_13TeV-powheg/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
+        "/WWTo4Q_13TeV-powheg/RunIISummer16MiniAODv2-PUMoriond17_80X_mcRun2_asymptotic_2016_TrancheIV_v6-v1/MINIAODSIM": {
             "units_per_job": 15,
-            "name": "WWToLNuQQ_13TeV-powheg_Summer16MiniAODv2",
+            "name": "WWTo4Q_13TeV-powheg_Summer16MiniAODv2",
             "era": "25ns"
         }
     },
