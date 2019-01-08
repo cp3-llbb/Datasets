@@ -1,0 +1,13 @@
+{
+    "name": "ttHAnalysis",
+    "configuration": "cp3_llbb/ttHAnalysis/test/ttHConfiguration.py",
+    "splitting": "relative:1",
+    "samples": {
+        "mc": [
+            "TT_powheg_fully_leptonic", "TT_powheg_inclusive", "DY_NLO", "DY_NLO_NJetsBins", "SMHiggs", "TTV", "TTH", "WJets", "ST_tW_5f_powheg", "ST_t_4f_powheg", "ST_s_4f_aMC@NLO", "ZZ", "WW", "WZ", "WZZ", "WWZ", "WWW", "ZZZ",
+            "ggttH*", "ggX?ttH*"
+        ],
+        "data": ["DoubleEG_run2017", "DoubleMuon_run2017", "MuonEG_run2017"]
+    }
+}
+
